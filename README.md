@@ -115,7 +115,7 @@ jupyter notebook
 # Open notebooks/01_eda.ipynb to start
 ```
 
-## 📊 Dataset
+## Dataset
 
 **Source**: Kaggle - Banking Fraud Detection & Risk Analytics Dataset
 
@@ -135,7 +135,7 @@ jupyter notebook
 - `failed_transactions_last_30d`: Recent failed transactions
 - `avg_monthly_balance`: Average monthly account balance
 
-## 🔧 Methodology
+## Methodology
 
 ### Data Pipeline
 1. **Exploratory Data Analysis (EDA)**
@@ -168,7 +168,7 @@ jupyter notebook
    - Confusion matrix
    - Feature importance analysis
 
-## 📈 Results
+## Results
 
 | Metric | Score |
 |--------|-------|
@@ -182,7 +182,7 @@ jupyter notebook
 
 See `docs/RESULTS.md` for detailed analysis and insights.
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **Data Processing**: Pandas, NumPy
 - **Visualization**: Matplotlib, Seaborn
@@ -191,7 +191,7 @@ See `docs/RESULTS.md` for detailed analysis and insights.
 - **Serialization**: Pickle, JSON
 - **Version Control**: Git, GitHub
 
-## 📝 Model Architecture
+## Model Architecture
 
 **Final Model**: Ensemble (Random Forest + XGBoost)
 - Voting Classifier with soft voting
@@ -203,14 +203,14 @@ See `docs/RESULTS.md` for detailed analysis and insights.
 - Ensemble methods reduce overfitting
 - Balanced precision-recall trade-off for fraud detection
 
-## 🔍 Key Insights
+## Key Insights
 
 - Feature importance analysis shows `anomaly_score` and `device_risk_score` are most predictive
 - Transaction timing and login attempts correlate with fraud
 - No significant data imbalance issues
 - Model achieves high precision without sacrificing recall
 
-## ⚠️ Limitations & Future Work
+## Limitations & Future Work
 
 **Current Limitations**:
 - Synthetic data (may not capture all real-world patterns)
@@ -225,13 +225,13 @@ See `docs/RESULTS.md` for detailed analysis and insights.
 - [ ] Explainability (SHAP values)
 - [ ] Class imbalance handling (if needed)
 
-## 📚 References
+## References
 
 - [Kaggle Dataset](https://www.kaggle.com/datasets/deepeshkansotia/banking-fraud-detection-and-risk-analytics-dataset/data)
 - [Scikit-learn Documentation](https://scikit-learn.org/)
 - [XGBoost Documentation](https://xgboost.readthedocs.io/)
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Please:
 1. Fork the repository
