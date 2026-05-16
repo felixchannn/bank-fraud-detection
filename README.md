@@ -2,7 +2,7 @@
 
 A machine learning classification project to predict fraudulent banking transactions using advanced feature engineering and ensemble methods.
 
-## 📊 Project Overview
+## Project Overview
 
 This project builds a production-ready fraud detection classifier that identifies high-risk transactions with high precision and recall. The model is trained on 10,000 synthetically generated banking transactions with 20 behavioral and transactional features.
 
@@ -13,7 +13,7 @@ This project builds a production-ready fraud detection classifier that identifie
 - ROC-AUC Score
 - Confusion Matrix Analysis
 
-## 🎯 Business Problem
+## Business Problem
 
 Banking institutions need to detect fraudulent transactions in real-time to:
 - Minimize financial losses from fraud
@@ -21,7 +21,7 @@ Banking institutions need to detect fraudulent transactions in real-time to:
 - Reduce false positives (customer inconvenience)
 - Meet regulatory compliance requirements
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 banking-fraud-detection/
@@ -76,7 +76,7 @@ banking-fraud-detection/
     └── RESULTS.md                      # Final results & insights
 ```
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 - Python 3.8+
@@ -246,9 +246,9 @@ This project is licensed under the MIT License - see LICENSE file for details.
 
 ## 📧 Contact
 
-**Author**: [Your Name]  
-**Email**: [your.email@example.com]  
-**LinkedIn**: [your-linkedin-profile]  
+**Author**: [Felix Chan]  
+**Email**: [felixchan118@gmail.com]  
+**LinkedIn**: [https://www.linkedin.com/in/felix-k-chan/]  
 
 ---
 
