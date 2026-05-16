@@ -227,7 +227,7 @@ See `docs/RESULTS.md` for detailed analysis and insights.
 
 ## 📚 References
 
-- [Kaggle Dataset](https://www.kaggle.com/datasets/deepeshkansotia/banking-fraud-detection-risk-analytics-dataset)
+- [Kaggle Dataset](https://www.kaggle.com/datasets/deepeshkansotia/banking-fraud-detection-and-risk-analytics-dataset/data)
 - [Scikit-learn Documentation](https://scikit-learn.org/)
 - [XGBoost Documentation](https://xgboost.readthedocs.io/)
 
